@@ -1,0 +1,1 @@
+- Having a 1st toy project that compiles to a pdf document
